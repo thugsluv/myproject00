@@ -8,3 +8,6 @@ CREATE USER 'malldbuser'@'%' identified BY 'malldbuser';
 
 GRANT ALL PRIVILEGES ON malldb.* TO 'malldbuser'@'localhost';
 GRANT ALL PRIVILEGES ON malldb.* TO 'malldbuser'@'%';
+
+
+
